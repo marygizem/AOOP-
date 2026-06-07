@@ -1,5 +1,4 @@
-# MotorPH Basic Payroll System (Group 6)
-
+# MotorPH Basic Payroll System 
 ## Project Overview
 This project is a Java desktop payroll system built with Swing and Maven.
 It implements a layered architecture (`model`, `dao`, `service`, `view`) and applies core Object-Oriented Programming (OOP) principles:
